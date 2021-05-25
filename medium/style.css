@@ -1,0 +1,71 @@
+.bg-border {
+    background-color: #FFC017;
+    border-bottom: 1px solid black;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.bigger-text {
+    color: rgba(8, 8, 8, 1);
+    letter-spacing: -0.05em;
+    line-height: 74px;
+    font-size: 70px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+}
+
+.learn-more {
+    line-height: 24px;
+    font-size: 18px;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+
+.get-started-btn {
+    width: 128px
+}
+
+.trending {
+    letter-spacing: 0.083em;
+    line-height: 16px;
+    font-size: 12px;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+}
+
+.numeric {
+    font-weight: bold;
+    color: rgba(230, 230, 230, 1);
+    line-height: 36px;
+    font-size: 30px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.name {
+    padding-right: 2px;
+    max-height: 16px;
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 500;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.title {
+    max-height: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: rgba(41, 41, 41, 1);
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.border-bottom {
+    border-bottom: 1px solid black;
+}
+
+.aside-margin>li {
+    margin: 5px;
+}
